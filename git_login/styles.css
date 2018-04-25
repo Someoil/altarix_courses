@@ -1,0 +1,26 @@
+.wrapper{
+    border:  1px solid green;
+    max-width: 330px;
+    text-align:  center;
+}
+.login{
+    border:  1px solid green;
+    padding: 10px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.button{
+    border: 1px solid green;
+    padding: 4px 8px;
+}
+.list{
+    width:  200px;
+    min-height: 120px;
+    border:  1px solid green;
+    margin: 20px auto;
+    text-align: left;
+    padding-top: 10px;
+}
+li{
+  padding-top: 5px;
+}
